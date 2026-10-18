@@ -90,7 +90,7 @@ MCP-Project/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/<Anahit85>/<https://github.com/Anahit85/MCP_Agent_Demo.git>.git
 cd <your-repo>
 
 # 2. Create and activate a virtual environment
